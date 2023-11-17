@@ -1,0 +1,16 @@
+RELATÓRIO DE IMPLEMENTAÇÃO DE MEDIDAS DE SEGURANÇA
+Data: 17/11/2023 Empresa: Unilog  Responsável: Israel Sales
+
+Introdução
+Este relatório apresenta o processo de implementação de ferramentas na empresa Unilog, realizado por Israel Sales. O objetivo do projeto foi elencar 3 medidas de segurança em conjunto dos serviços da AWS, com a finalidade de realizar aumentar a segurança na empresa.
+
+Descrição do Projeto
+O projeto de implementação de ferramentas foi dividido em 3 medidas de segurança. A seguir, serão descritas as etapas da implementação:
+
+Medida 1: - AWS Identity and Access Management -Gerenciamento de identidade e acesso 
+Medida 2: - Amazon VPC - Segurança de infraestrutura
+
+Medida 3: - AWS Key Management Service -  Criptografia de Dados.
+
+Conclusão
+A implementação de ferramentas na empresa Unilog tem como esperado melhor segurança , o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
